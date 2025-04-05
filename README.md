@@ -34,8 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you added to improve the site's functionality!
-Added a feature that displays each artist from the resulting search one at a time using the setInterval function. 
+* [x] Added a feature that displays each artist from the resulting search one at a time using the setInterval function. 
 
 ## Video Walkthrough
 
